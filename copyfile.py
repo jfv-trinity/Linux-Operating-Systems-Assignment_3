@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+""" Copies a source and duplicates it to the destination."""
 
 source = input("Please type the origin file:\n")
 destination = input("Please type file Destination:\n")
