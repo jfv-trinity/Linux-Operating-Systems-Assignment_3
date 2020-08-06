@@ -3,7 +3,7 @@
 payroll.py
 Joseph Volpe
 301118010
-reads data.txt file and outputs each line on the data.txt file.
+reads data.txt file and outputs each line on the data.txt file using a CVS translater.
 """
 import csv
 
